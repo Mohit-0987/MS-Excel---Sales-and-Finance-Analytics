@@ -76,24 +76,24 @@ Reports were designed to be structured, intuitive, and decision-focused, allowin
 
 ### Sales Reports
 
-1. **Customer Performance Report**  
+1. **Customer Performance Report**
+https://github.com/Mohit-0987/MS-Excel---Sales-and-Finance-Analytics/blob/main/Customer%20Perfomance%20Report.pdf 
 
 
-2. **Market Performance vs Target Report**  
-
-
+3. **Market Performance vs Target Report**  
+https://github.com/Mohit-0987/MS-Excel---Sales-and-Finance-Analytics/blob/main/Market%20performance%20vs%20target.pdf
 ---
 
 ### Finance Reports
 
 1. **P&L for Markets**  
-
+https://github.com/Mohit-0987/MS-Excel---Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20market.pdf
 
 2. **P&L by Fiscal Year**  
-
+https://github.com/Mohit-0987/MS-Excel---Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20MONTHS.pdf
 
 3. **P&L by Fiscal Months**  
-
+https://github.com/Mohit-0987/MS-Excel---Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20YEAR.pdf
 
 ---
 
